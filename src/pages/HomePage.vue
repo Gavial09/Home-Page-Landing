@@ -12,7 +12,7 @@
   min-height: calc(100vh - 56px);
   width: 100%;
   background-color: #1a1a1a;;
-  background-image: url('/public/Rhodes_Island_Bridge.png');
+  background-image: url('/Rhodes_Island_Bridge.png');
   background-size: 100% auto;
   background-position: center;
   background-repeat: no-repeat;
