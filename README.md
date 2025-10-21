@@ -1,4 +1,4 @@
-# Laboratory Activity 5: Developing Front End and Consuming Restful API (By Group)
+# Laboratory Activity 5: Developing Front End and Consuming Restful API (Individual Home Page / Landing)
 
 ## <ins> The Project </ins>
 The task is to build a small `Vue` app step-by-step:
